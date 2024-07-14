@@ -33,13 +33,4 @@ CSV_Upload provides a simple API for uploading and parsing CSV files. The API su
 * GET /data: Returns the parsed CSV data as JSON.
 
 
-```
-CSV_Upload/
-|── |assets/
-│   |      ├── css/
-│   │      |     ├── styles.css
-│   |      ├── js/
-│   |            ├── script.js
-│
-
 
